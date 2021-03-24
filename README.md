@@ -19,7 +19,7 @@ Open the project in IntelliJ or Eclipse IDE and run it
 
 # Screenshots
 ## Menu
-<img src="https://raw.githubusercontent.com/MariusDL/Battleships/main/readme-images/Screenshot_1.png" alt="app1" border="0" height="650">
+<img src="https://raw.githubusercontent.com/MariusDL/Battleships/main/readme-images/Screenshot_1.png" alt="app1" border="0" height="400">
 
 ## Register
-<img src="https://raw.githubusercontent.com/MariusDL/Battleships/main/readme-images/Screenshot_2.png" alt="app1" border="0" height="650">
+<img src="https://raw.githubusercontent.com/MariusDL/Battleships/main/readme-images/Screenshot_2.png" alt="app1" border="0" height="400">
